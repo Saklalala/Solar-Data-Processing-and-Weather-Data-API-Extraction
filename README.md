@@ -59,4 +59,4 @@ This work builds upon the Ausgrid Solar home electricity dataset, originally cre
 This project is available under a CC BY 4.0 license, maintaining compatibility with the original dataset's licensing.
 
 ---
-*Note: This project is part of ongoing research work in load/net load forecasting.*
+*Note: This project is part of ongoing research project work in load/net load forecasting.*
